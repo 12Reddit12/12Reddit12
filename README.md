@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on GameHacking
+- 🌱 I’m currently learning C++,HTML,JS,CSS
+- 🤔 I’m looking for help with write a RW-driver
